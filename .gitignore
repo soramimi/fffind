@@ -1,0 +1,4 @@
+*.user
+_bin/
+fffind
+*.o
